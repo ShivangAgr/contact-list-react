@@ -1,0 +1,47 @@
+.contact-card {
+	margin: 10px;
+	padding: 10px 20px;
+	background: #234;
+	flex: 1 1 100px;
+	display: flex;
+	border-radius: 10px;
+	box-shadow: #223 0 0 8px;
+}
+
+.profile-photo {
+	height: 80px;
+	padding: 4px;
+	margin: 8px;
+	border-radius: 100px;
+	border: #f8b04a 8px dotted;
+}
+
+.contact-details {
+	padding: 10px;
+	margin: 0 32px;
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.contact-name {
+	font-size: 36px;
+}
+
+.contact-phone {
+	font-size: 26px;
+	color: #ccc;
+}
+
+.contact-delete {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  color: white;
+}
+
+.contact-delete-img {
+  padding: 20px;
+  height: 40px;
+  width: 40px;
+}

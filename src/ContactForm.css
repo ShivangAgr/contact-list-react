@@ -1,0 +1,35 @@
+form {
+	margin: 10px;
+	padding: 10px 20px;
+	background: #123;
+	border-radius: 10px;
+	box-shadow: #223 0 0 8px;
+	flex: 1 1 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.form-fields {
+	padding: 10px;
+}
+
+label {
+	font-size: 36px;
+	font-weight: bolder;
+	width: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.contact-add {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  color: white;
+}
+
+.contact-add-img {
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+}

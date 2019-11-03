@@ -1,0 +1,6 @@
+.contact-list-app {
+	margin: auto 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
