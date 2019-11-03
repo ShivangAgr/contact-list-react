@@ -1,6 +1,5 @@
 import React from 'react';
 import profile from './profile.svg';
-import edit from './edit.svg';
 import bin from './bin.svg';
 import './Contact.css';
 
