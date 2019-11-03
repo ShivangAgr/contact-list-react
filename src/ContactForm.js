@@ -27,17 +27,17 @@ class ContactForm extends React.Component {
 			<form>
 				<div className="form-fields">
 					<label htmlFor="name">
-						<span>Name:</span>
+						<span>NAME</span>
 						<input name="name" value={this.state.name} onChange={this.handleChange} />
 					</label>
 					<label htmlFor="phone">
-						<span>Phone:</span>
+						<span>PHONE</span>
 						<input name="phone" value={this.state.phone} onChange={this.handleChange} />
 					</label>
 				</div>
 
-				<button className="contact-add" onClick={this.handleSubmit} >
-					<img className="contact-add-img" src={addContact} alt="addContact" />
+				<button className="btn" onClick={this.handleSubmit} >
+					<img className="btn-img" src={addContact} alt="addContact" />
 				</button>
 			</form>
 		);
