@@ -1,25 +1,24 @@
 {
   "files": {
     "main.css": "/contact-list-react/static/css/main.db2444a1.chunk.css",
-    "main.js": "/contact-list-react/static/js/main.76d3f399.chunk.js",
-    "main.js.map": "/contact-list-react/static/js/main.76d3f399.chunk.js.map",
+    "main.js": "/contact-list-react/static/js/main.db66f4ed.chunk.js",
+    "main.js.map": "/contact-list-react/static/js/main.db66f4ed.chunk.js.map",
     "runtime-main.js": "/contact-list-react/static/js/runtime-main.6b63bfca.js",
     "runtime-main.js.map": "/contact-list-react/static/js/runtime-main.6b63bfca.js.map",
-    "static/js/2.59939207.chunk.js": "/contact-list-react/static/js/2.59939207.chunk.js",
-    "static/js/2.59939207.chunk.js.map": "/contact-list-react/static/js/2.59939207.chunk.js.map",
+    "static/js/2.03e32f27.chunk.js": "/contact-list-react/static/js/2.03e32f27.chunk.js",
+    "static/js/2.03e32f27.chunk.js.map": "/contact-list-react/static/js/2.03e32f27.chunk.js.map",
     "index.html": "/contact-list-react/index.html",
-    "precache-manifest.d1caef10716ff21ba06bf7631fffed5f.js": "/contact-list-react/precache-manifest.d1caef10716ff21ba06bf7631fffed5f.js",
+    "precache-manifest.3970da9f7533f82f3a70590ec9fd557c.js": "/contact-list-react/precache-manifest.3970da9f7533f82f3a70590ec9fd557c.js",
     "service-worker.js": "/contact-list-react/service-worker.js",
     "static/css/main.db2444a1.chunk.css.map": "/contact-list-react/static/css/main.db2444a1.chunk.css.map",
     "static/media/add-contact.svg": "/contact-list-react/static/media/add-contact.4f4f88bc.svg",
     "static/media/bin.svg": "/contact-list-react/static/media/bin.4abe51fd.svg",
-    "static/media/edit.svg": "/contact-list-react/static/media/edit.49ba707d.svg",
     "static/media/profile.svg": "/contact-list-react/static/media/profile.a7d974ee.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b63bfca.js",
-    "static/js/2.59939207.chunk.js",
+    "static/js/2.03e32f27.chunk.js",
     "static/css/main.db2444a1.chunk.css",
-    "static/js/main.76d3f399.chunk.js"
+    "static/js/main.db66f4ed.chunk.js"
   ]
 }
