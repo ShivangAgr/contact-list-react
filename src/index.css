@@ -1,11 +1,13 @@
 body {
 	margin: 0;
+	padding: 0;
 	background-color: #556;
+	width: 100vw;
+	/*height: 100vh;*/
 }
 
-#contact-list-app {
-	font-family: "Victor Mono";
-	margin: 100px;
-	min-height: 60vh;
-	color: white;
+#root {
+	font-family: "Roboto Mono", "Victor Mono";
+	margin: 0;
+	padding: 0;
 }

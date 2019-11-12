@@ -24,22 +24,22 @@ class ContactForm extends React.Component {
 
 	render() {
 		return (
-			<form>
-				<div className="form-fields">
-					<label htmlFor="name">
-						<span>NAME</span>
-						<input name="name" value={this.state.name} onChange={this.handleChange} />
-					</label>
-					<label htmlFor="phone">
-						<span>PHONE</span>
-						<input name="phone" value={this.state.phone} onChange={this.handleChange} />
-					</label>
-				</div>
+			<div id="contact-form">
+				<form>
+					<div className="form-fields">
+						<label htmlFor="name">
+							<span>NAME</span>
+							<input name="name" value={this.state.name} onChange={this.handleChange} />
+						</label>
+						<label htmlFor="phone">
+							<span>PHONE</span>
+							<input name="phone" value={this.state.phone} onChange={this.handleChange} />
+						</label>
+					</div>
 
-				<button className="btn" onClick={this.handleSubmit} >
-					<img className="btn-img" src={addContact} alt="addContact" />
-				</button>
-			</form>
+					<img className="btn-img" src={addContact} alt="addContact" onClick={this.handleSubmit} />
+				</form>
+			</div>
 		);
 	}
 }

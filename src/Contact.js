@@ -24,9 +24,7 @@ class Contact extends React.Component {
 					<div className="contact-phone">{this.props.phone}</div>
 				</div>
 
-				<button className="btn" onClick={this.handleDelete} >
-					<img className="btn-img" src={bin} alt="delete" />
-				</button>
+				<img className="btn-img" src={bin} alt="delete" onClick={this.handleDelete} />
 			</div>
 		);
 	}
